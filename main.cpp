@@ -200,7 +200,7 @@ void display() {
 		wingR();
 	glPopMatrix();
 	glutSwapBuffers();
-	//sam
+	//samsudin
 }
 
 int main(int argc, char **argv)
