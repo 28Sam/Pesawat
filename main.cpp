@@ -19,7 +19,7 @@ static int rotAngleX =0, rotAngleY =0, rotAngleZ =0;
 int planeBankLeft = 1;
 float angleZ = 0, angleX = 0;
 GLUquadricObj *IDquadric;
-//123
+//1234
 void init(void)
 {
 	glEnable (GL_DEPTH_TEST);
